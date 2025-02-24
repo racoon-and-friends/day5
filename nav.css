@@ -3,12 +3,14 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: skyblue;
   }
   
   .container {
     width: 80%;
     margin: auto;
     padding: 20px;
+    background:#ffffffb3;/*changed*/
   }
   
   h2, h3 {
