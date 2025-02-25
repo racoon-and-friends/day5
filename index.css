@@ -9,6 +9,7 @@ header{
   background-color: #333;
   color: #ccc;
   align-items: center;
+  text-align: center;
 }
 .search-container {
     text-align: center;
