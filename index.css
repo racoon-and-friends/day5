@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     justify-content: center;
     align-items: center;
+    text-align: center;
     background-image: url(Index.html/image/bakc.png);
     background-size: contain;
 }
