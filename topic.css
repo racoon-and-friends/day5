@@ -5,7 +5,8 @@ body {
     padding: 0;
     background-color: skyblue;
     background-image:url(finances.png) ;
-    background-repeat: no-repeat;}
+    background-repeat: no-repeat;
+  }
     
 h2{
     background-color: #03a9f4;
@@ -21,7 +22,7 @@ h1{
 .tabs {
     display: flex;
     justify-content: center;
-    gap: 20px;s
+    gap: 20px;
     margin-bottom: 20px;
     background-color:#03a9f4;
 }
