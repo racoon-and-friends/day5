@@ -8,6 +8,7 @@ body {
 header{
   background-color: #333;
   color: #ccc;
+  align-items: center;
 }
 .search-container {
     text-align: center;
